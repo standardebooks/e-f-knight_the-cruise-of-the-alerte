@@ -10,8 +10,9 @@
 	font-variant: normal;
 }
 
-#chapter-1 blockquote p[epub|type~="se:letter.dateline"]{
+#chapter-1 blockquote header p[epub|type~="se:letter.dateline"]{
 	text-align: right;
+    font-variant: normal;
 }
 
 #chapter-1 blockquote footer span[epub|type~="z3998:signature"]{
