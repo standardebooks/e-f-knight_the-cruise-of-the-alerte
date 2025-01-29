@@ -26,15 +26,15 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-        <dc:title id="title">The Cruise of the Alerte</dc:title>
+		<dc:title id="title">The Cruise of the Alerte</dc:title>
 		<meta property="file-as" refines="#title">Cruise of the Alerte, The</meta>
-        <meta property="title-type" refines="#title">main</meta>
-        <dc:title id="subtitle">The Narrative of a Search for Treasure on the Desert Island of Trinidad</dc:title>
-        <meta property="file-as" refines="#subtitle">Narrative of a Search for Treasure on the Desert Island of Trinidad, The</meta>
-        <meta property="title-type" refines="#subtitle">subtitle</meta>
-        <dc:title id="fulltitle">The Cruise of the Alerte: The Narrative of a Search for Treasure on the Desert Island of Trinidad</dc:title>
-        <meta property="file-as" refines="#fulltitle">Cruise of the Alerte, The</meta>
-        <meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">The Narrative of a Search for Treasure on the Desert Island of Trinidad</dc:title>
+		<meta property="file-as" refines="#subtitle">Narrative of a Search for Treasure on the Desert Island of Trinidad, The</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Cruise of the Alerte: The Narrative of a Search for Treasure on the Desert Island of Trinidad</dc:title>
+		<meta property="file-as" refines="#fulltitle">Cruise of the Alerte, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Voyages and travels</dc:subject>
 		<dc:subject id="subject-2">Treasure troves</dc:subject>
 		<dc:subject id="subject-3">Alerte (Yacht)</dc:subject>
@@ -47,9 +47,9 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-        <meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Nonfiction</meta>
-        <meta property="se:subject">Travel</meta>
+		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
