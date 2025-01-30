@@ -16,8 +16,8 @@
 }
 
 #chapter-1 blockquote footer{
-    margin-top: 1em;
-    text-align: right;
+	margin-top: 1em;
+	text-align: right;
 }
 
 #chapter-1 blockquote footer span[epub|type~="z3998:signature"]{
