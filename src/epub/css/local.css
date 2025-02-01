@@ -9,10 +9,7 @@
 	margin-top: 1em;
 }
 
-#chapter-1 > blockquote > header > p:last-of-type{
-	text-align: right;
-}
-
+#chapter-1 > blockquote > header > p:last-of-type,
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
