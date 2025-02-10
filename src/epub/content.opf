@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-02-10T19:38:10Z</dc:date>
+		<meta property="dcterms:modified">2025-02-10T19:38:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,18 +50,18 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">An English journalist sets sail in search of an “immense treasure” buried on a remote desert island.</dc:description>
+		<dc:description id="description">An English journalist sets sail in search of treasure buried on a remote desert island.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;For a period of several years in the early 1800s, Spanish colonists fled the Peruvian War of Independence, attempting to take the wondrous treasures of Lima with them. Often trying to make their escape on unguarded and poorly equipped vessels, they made easy prey for pirates swarming off the coast. A deathbed confession by a mysterious Russian quartermaster claiming to be the sole survivor of one such pirate crew, including a tattered map showing the location of their buried plunder, sets off a series of unsuccessful expeditions to recover the prize.&lt;/p&gt;
-			&lt;p&gt;Learning further details from the captains of those failed voyages, &lt;a href="https://standardebooks.org/ebooks/e-f-knight"&gt;E. F. Knight&lt;/a&gt; concludes that there is sufficient truth in the story to justify an expedition of his own, and he goes to great effort and expense to outfit his yacht &lt;i&gt;Alerte&lt;/i&gt; for a journey to the South Atlantic island of Trinidade to seek the fabled fortune.&lt;/p&gt;
-			&lt;p&gt;In lucid and detailed prose, Knight recounts the challenges of finding crew and arranging provisions, the fickleness of the weather and the sea, and the dangers of hunting for treasure on an island with blistering heat, pounding surf, frequent landslides, and hordes of bloodthirsty land-crabs.&lt;/p&gt;
-			&lt;p&gt;The allure of adventure in &lt;i&gt;The Cruise of the Alert&lt;/i&gt; inspired future authors such as Arthur Ransome, who wrote the &lt;i&gt;Swallows and Amazons&lt;/i&gt; children’s series, as well as &lt;a href="https://standardebooks.org/ebooks/erskine-childers"&gt;Erskine Childers’&lt;/a&gt; &lt;a hreg="https://standardebooks.org/ebooks/erskine-childers/the-riddle-of-the-sands"&gt;&lt;i&gt;Riddle of the Sands&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;In the early 1800s Spanish colonists fled the Peruvian War of Independence, taking the wondrous treasures of Lima with them. Making their escape on unguarded and poorly-equipped vessels, they were easy prey for the pirates swarming off the coast. A deathbed confession by the mysterious sole survivor of one such pirate crew—including a tattered map showing the location of their buried plunder—sets off a series of unsuccessful expeditions to recover the prize.&lt;/p&gt;
+			&lt;p&gt;After hearing further details from the captains of those failed voyages, &lt;a href="https://standardebooks.org/ebooks/e-f-knight"&gt;E. F. Knight&lt;/a&gt; concludes that there’s sufficient truth in the story to justify an expedition of his own, and he goes to great effort and expense to outfit his yacht &lt;i&gt;Alerte&lt;/i&gt; for a journey to the South Atlantic island of Trinidad to seek the fabled fortune.&lt;/p&gt;
+			&lt;p&gt;In lucid and detailed prose, Knight recounts the challenges of finding crew and arranging provisions, the fickleness of the weather and the sea, and the dangers of hunting for treasure on an island bedeviled with blistering heat, pounding surf, frequent landslides, and hordes of bloodthirsty land-crabs.&lt;/p&gt;
+			&lt;p&gt;The allure of adventure in &lt;i&gt;The Cruise of the Alert&lt;/i&gt; inspired future authors such as Arthur Ransome, who wrote the &lt;i&gt;Swallows and Amazons&lt;/i&gt; children’s series, as well as &lt;a href="https://standardebooks.org/ebooks/erskine-childers"&gt;Erskine Childers’&lt;/a&gt; &lt;a hreg="https://standardebooks.org/ebooks/erskine-childers/the-riddle-of-the-sands"&gt;&lt;i&gt;The Riddle of the Sands&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/38891</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008734257</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">75148</meta>
+		<meta property="se:reading-ease.flesch">60.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cruise_of_the_Alerte</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-f-knight_the-cruise-of-the-alerte</meta>
 		<dc:creator id="author">E. F. Knight</dc:creator>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
