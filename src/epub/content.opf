@@ -61,7 +61,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/38891</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008734257</dc:source>
-		<meta property="se:word-count">75148</meta>
+		<meta property="se:word-count">74981</meta>
 		<meta property="se:reading-ease.flesch">60.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cruise_of_the_Alerte</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-f-knight_the-cruise-of-the-alerte</meta>
